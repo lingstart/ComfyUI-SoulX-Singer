@@ -1,4 +1,5 @@
 # Core dependencies for SoulX-Singer ComfyUI nodes
+matplotlib>=3.9.0,<3.11.0
 torch>=2.0.0
 soundfile>=0.12.0
 scipy>=1.10.0
